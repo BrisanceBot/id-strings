@@ -1,1 +1,2 @@
 <?php
+$LANG['name'] = 'Gaeilge';
