@@ -8,3 +8,4 @@ $LANG['generic']['error'] = 'An error occurred.';
 $LANG['error']['generic'] = 'No error message provided.';
 $LANG['error']['loggedIn'] = 'You\'re already logged in.';
 $LANG['error']['notLoggedIn'] = 'You\'re not logged in';
+$LANG['name'] = 'English (Traditional)';
