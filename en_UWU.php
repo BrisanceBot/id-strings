@@ -10,3 +10,4 @@ $LANG['name'] = 'kawaii engwish ^_^';
 $LANG['page']['login'] = 'let me haz ur bye-corpse passpowt OwO';
 $LANG['footer']['executionTime'] = 'pooping time';
 $LANG['button']['submit'] = 'submit >///<';
+$LANG['error']['incorrectAuth'] = 'u typed ur login wrong :P';
