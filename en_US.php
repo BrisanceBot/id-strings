@@ -18,3 +18,4 @@ $LANG['page']['signup'] = 'Sign up for ByeCorps ID';
 $LANG['page']['login'] = 'Log in to ByeCorps ID';
 $LANG['auth']['signout'] = 'Sign out';
 $LANG['error']['incorrectAuth'] = 'Incorrect email or password.';
+$LANG['header']['hello'] = 'Howdy {{display_name}}!';
