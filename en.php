@@ -13,6 +13,8 @@ $LANG['page']['credits'] = 'Credits';
 $LANG['page']['signup'] = 'Sign up for ByeCorps ID';
 $LANG['page']['login'] = 'Log in to ByeCorps ID';
 
+$LANG['header']['hello'] = 'Hey hey {{display_name}}!';
+
 $LANG['footer']['executionTime'] = 'Execution time';
 
 $LANG['generic']['generic'] = 'You\'ve unlocked the generic text!';
