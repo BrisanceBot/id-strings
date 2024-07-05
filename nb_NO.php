@@ -13,3 +13,4 @@ $LANG['auth']['signedout'] = 'Du var logget ut.';
 $LANG['auth']['signout'] = 'Logg ut';
 $LANG['name'] = 'Norsk bokmål';
 $LANG['error']['incorrectAuth'] = 'Feil e-postaddresse eller passord.';
+$LANG['header']['hello'] = 'Hei {{display_name}}!';
