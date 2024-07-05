@@ -2,7 +2,7 @@
 $LANG['auth']['signup'] = 'Sign up';
 $LANG['auth']['login'] = 'Log in';
 $LANG['page']['credits'] = 'Credits';
-$LANG['footer']['executionTime'] = 'Execution time';
+$LANG['footer']['executionTime'] = '<b>Execution time:</b> {{time}} ms';
 $LANG['generic']['generic'] = 'You\'ve unlocked the generic text!';
 $LANG['generic']['error'] = 'An error occurred.';
 $LANG['error']['generic'] = 'No error message provided.';
@@ -19,3 +19,5 @@ $LANG['page']['login'] = 'Log in to ByeCorps ID';
 $LANG['auth']['signout'] = 'Sign out';
 $LANG['error']['incorrectAuth'] = 'Incorrect email or password.';
 $LANG['header']['hello'] = 'Howdy {{display_name}}!';
+$LANG['idcard']['joined'] = 'Joined on {{date}}';
+$LANG['page']['dashboard'] = 'Dashboard';
