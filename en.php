@@ -2,7 +2,7 @@
 $LANG['auth']['signup'] = 'Sign up';
 $LANG['auth']['login'] = 'Log in';
 $LANG['auth']['logInWithPasskey'] = 'Log in with passkey';
-$LANG['auth']['logInWithPasskeyExplainer'] = 'If you have a passkey or use another Webauthn compatible device you can use that to log in to your account.';
+$LANG['auth']['logInWithPasskeyExplainer'] = 'If you have a passkey or security key you can use that to log in to your account.';
 $LANG['auth']['passkey'] = 'Passkey';
 $LANG['auth']['passkeyPlural'] = 'Passkeys';
 $LANG['auth']['signout'] = 'Sign out';
