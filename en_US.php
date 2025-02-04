@@ -21,3 +21,4 @@ $LANG['error']['incorrectAuth'] = 'Incorrect email or password.';
 $LANG['header']['hello'] = 'Howdy {{display_name}}!';
 $LANG['idcard']['joined'] = 'Joined on {{date}}';
 $LANG['page']['dashboard'] = 'Dashboard';
+$LANG['auth']['logInWithPasskey'] = 'Log in with passkey';
